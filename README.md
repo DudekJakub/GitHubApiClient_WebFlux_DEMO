@@ -23,6 +23,10 @@ This is a main solution to the functional requirements listed below:
 
 <br>
 
+Result endpoint is available under following url: `http://localhost:8080/api/github/user/LOGIN/repositories` - where login is user to find.
+
+<br>
+
 Side solution is available here: https://github.com/DudekJakub/GitHubApiClient_Kohsuke_DEMO
 
 <br>
