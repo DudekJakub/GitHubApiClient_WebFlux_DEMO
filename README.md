@@ -2,12 +2,30 @@
 
 ## AUTHOR: JAKUB DUDEK
 
+<br>
+
+
+In case of any questions, I am available at the e-mail `jakub.dudek94@gmail.com` and no. phone `+48 783 963 469`.
+
+<br>
+
+## ABOUT:
 This is a demo application that uses the WebClient (WebFlux approach) to connect to the GitHub Rest API and retrieve data on the user's repositories.
 <br><br>
 The application uses an asynchronous, non-blocking reactive approach (Project Reactor library), where requests are processed in a data stream based on the so-called Even Loop.
 <br><br>
 The main assumption of the project is to provide an API that, using GitHub Rest API v.3 as a backing-api, enables obtaining processed information on the user's repositories.
 <br><br>
+
+This is a main solution to the functional requirements listed below:
+
+![image](https://github.com/DudekJakub/GitHubApiClient_Kohsuke_DEMO/assets/90628819/1e64b04e-ec24-4649-8ffa-a6f525f39b0b)
+
+<br>
+
+Side solution is available here: https://github.com/DudekJakub/GitHubApiClient_Kohsuke_DEMO
+
+<br>
 
 ## USED DEPENDENCIES:
 ||
